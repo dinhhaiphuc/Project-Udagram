@@ -2,7 +2,7 @@
 
 git repo:
 
-    https://github.com/dinhhaiphuc/Project-Udagram/tree/main
+    https://github.com/dinhhaiphuc/Project-Udagram
 
 =============================
 
